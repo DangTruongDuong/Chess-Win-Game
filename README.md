@@ -75,6 +75,11 @@ source("chess_analysis.R")
 - **Dự đoán kết quả trận đấu**:
   - **Trắng (Elo 2000) vs Đen (Elo 1900)**: Trắng thắng (**xác suất ~70%**).
   - **Chuỗi nước đi tiêu biểu**: `e4 e5 Nf3 Nc6` → Gợi ý **Bb5**.
+- **Các Biểu đồ**:
+- ![Screenshot 2025-03-14 145539](https://github.com/user-attachments/assets/4e5e943e-c2ad-40b7-b297-4ef67fe8d6de)
+- ![Screenshot 2025-03-14 145548](https://github.com/user-attachments/assets/faa6141e-1abe-4986-ac0c-41f8fea8f4e7)
+- ![Screenshot 2025-03-14 145606](https://github.com/user-attachments/assets/ceebd25c-5216-498b-9750-0626de763455)
+- ![Screenshot 2025-03-14 145615](https://github.com/user-attachments/assets/46468c4b-0dac-4d08-8754-621417249c38)
 
 ## 📂 Cấu trúc thư mục dự án
 ```

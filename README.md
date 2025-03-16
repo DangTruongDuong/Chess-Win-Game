@@ -78,10 +78,10 @@ source("chess_analysis.R")
 
 ## 📂 Cấu trúc thư mục dự án
 ```
-├── chess_games.csv      # Dữ liệu ván cờ
-├── chess_analysis.R     # Mã nguồn chính
-├── report.pdf           # Báo cáo bài tập lớn
-└── README.md            # Hướng dẫn sử dụng
+├── chess_games.csv        # Dữ liệu ván cờ
+├── code.R                 # Code           
+├── NHOM_5-CNTT16-01.dox   # Báo cáo bài tập lớn
+└── README.md              # Hướng dẫn sử dụng
 ```
 
 ---

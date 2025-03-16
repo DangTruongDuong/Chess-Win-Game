@@ -1,6 +1,6 @@
 <div align="center">
 ♟️ PHÂN TÍCH VÀ DỰ ĐOÁN NƯỚC ĐI TRONG CỜ VUA
-</div> <div align="center"> <img src="images/logo.png" alt="Logo Đại học Đại Nam" width="200"/> </div> <h3 align="center">🔍 Ứng dụng Apache Spark và Machine Learning trong phân tích cờ vua</h3> <p align="center"> Dự án bài tập lớn môn Dữ liệu lớn - Khoa Công nghệ Thông tin, Đại học Đại Nam. </p>
+</div> <div align="center"> <img src="logo.png" alt="Logo Đại học Đại Nam" width="200"/> </div> <h3 align="center">🔍 Ứng dụng Apache Spark và Machine Learning trong phân tích cờ vua</h3> <p align="center"> Dự án bài tập lớn môn Dữ liệu lớn - Khoa Công nghệ Thông tin, Đại học Đại Nam. </p>
 
 🏗️ Mô tả dự án
 Dự án phân tích hơn 160,000 ván cờ từ tập dữ liệu chess_games.csv (nguồn: Kaggle) để:
